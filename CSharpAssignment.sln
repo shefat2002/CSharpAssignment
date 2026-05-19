@@ -1,38 +1,38 @@
-﻿
+
 Microsoft Visual Studio Solution File, Format Version 12.00
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1.VolumeOfABox", "1.VolumeOfABox\1.VolumeOfABox.csproj", "{80CAE7AF-6E09-4EE0-802F-B5006489BA03}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1.VolumeOfABox", "CSharpAssignment\1.VolumeOfABox\1.VolumeOfABox.csproj", "{80CAE7AF-6E09-4EE0-802F-B5006489BA03}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2.AreaOfACircle", "2.AreaOfACircle\2.AreaOfACircle.csproj", "{388C6C01-BCCA-4EEF-A8C0-CE8B4378CFFD}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2.AreaOfACircle", "CSharpAssignment\2.AreaOfACircle\2.AreaOfACircle.csproj", "{388C6C01-BCCA-4EEF-A8C0-CE8B4378CFFD}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3.AreaOfATriangle", "3.AreaOfATriangle\3.AreaOfATriangle.csproj", "{F3082935-8BAF-4ABD-9F10-A80F50195A41}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3.AreaOfATriangle", "CSharpAssignment\3.AreaOfATriangle\3.AreaOfATriangle.csproj", "{F3082935-8BAF-4ABD-9F10-A80F50195A41}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "4.EvenOrOdd", "4.EvenOrOdd\4.EvenOrOdd.csproj", "{E0E91301-9984-46B3-AF0A-A777316F7011}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "4.EvenOrOdd", "CSharpAssignment\4.EvenOrOdd\4.EvenOrOdd.csproj", "{E0E91301-9984-46B3-AF0A-A777316F7011}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "5.PrimeOrNonPrime", "5.PrimeOrNonPrime\5.PrimeOrNonPrime.csproj", "{DF78758B-8133-4F24-87ED-440ED43ACDD2}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "5.PrimeOrNonPrime", "CSharpAssignment\5.PrimeOrNonPrime\5.PrimeOrNonPrime.csproj", "{DF78758B-8133-4F24-87ED-440ED43ACDD2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "6.SalesCommissionCalculator", "6.SalesCommissionCalculator\6.SalesCommissionCalculator.csproj", "{7636C9E6-63F1-4485-B5C2-5BF09C5B1A57}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "6.SalesCommissionCalculator", "CSharpAssignment\6.SalesCommissionCalculator\6.SalesCommissionCalculator.csproj", "{7636C9E6-63F1-4485-B5C2-5BF09C5B1A57}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "7.PrintNumbersInARow", "7.PrintNumbersInARow\7.PrintNumbersInARow.csproj", "{547D0113-C2E3-409C-81AD-11AB7AEF5A17}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "7.PrintNumbersInARow", "CSharpAssignment\7.PrintNumbersInARow\7.PrintNumbersInARow.csproj", "{547D0113-C2E3-409C-81AD-11AB7AEF5A17}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "8.PrintNumbersInAGrid", "8.PrintNumbersInAGrid\8.PrintNumbersInAGrid.csproj", "{D98156F3-C3DC-4897-8C9E-8C689174E03E}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "8.PrintNumbersInAGrid", "CSharpAssignment\8.PrintNumbersInAGrid\8.PrintNumbersInAGrid.csproj", "{D98156F3-C3DC-4897-8C9E-8C689174E03E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "9.SumOfEvenNumbers", "9.SumOfEvenNumbers\9.SumOfEvenNumbers.csproj", "{79042E0F-305B-4B41-BDBB-AB4C9C29971C}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "9.SumOfEvenNumbers", "CSharpAssignment\9.SumOfEvenNumbers\9.SumOfEvenNumbers.csproj", "{79042E0F-305B-4B41-BDBB-AB4C9C29971C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "10.SumOfOddNumbers", "10.SumOfOddNumbers\10.SumOfOddNumbers.csproj", "{511C0823-0530-483A-A35F-CB4F6ED04006}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "10.SumOfOddNumbers", "CSharpAssignment\10.SumOfOddNumbers\10.SumOfOddNumbers.csproj", "{511C0823-0530-483A-A35F-CB4F6ED04006}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "11.SumOfMultiplesOf9", "11.SumOfMultiplesOf9\11.SumOfMultiplesOf9.csproj", "{B5454C4A-D9B6-419C-9043-F25A54891192}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "11.SumOfMultiplesOf9", "CSharpAssignment\11.SumOfMultiplesOf9\11.SumOfMultiplesOf9.csproj", "{B5454C4A-D9B6-419C-9043-F25A54891192}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "12.SeriesSum1To10", "12.SeriesSum1To10\12.SeriesSum1To10.csproj", "{82CF1B9B-2FCA-485A-8556-E325AB8C7FE5}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "12.SeriesSum1To10", "CSharpAssignment\12.SeriesSum1To10\12.SeriesSum1To10.csproj", "{82CF1B9B-2FCA-485A-8556-E325AB8C7FE5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "13.SeriesSumOfSquares", "13.SeriesSumOfSquares\13.SeriesSumOfSquares.csproj", "{04F82055-FEAA-490F-A1CA-5C5E5B346018}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "13.SeriesSumOfSquares", "CSharpAssignment\13.SeriesSumOfSquares\13.SeriesSumOfSquares.csproj", "{04F82055-FEAA-490F-A1CA-5C5E5B346018}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "14.ReverseSeriesSum", "14.ReverseSeriesSum\14.ReverseSeriesSum.csproj", "{8D4F8159-78D1-4BF1-B90F-E89BEFAB0D46}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "14.ReverseSeriesSum", "CSharpAssignment\14.ReverseSeriesSum\14.ReverseSeriesSum.csproj", "{8D4F8159-78D1-4BF1-B90F-E89BEFAB0D46}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "15.LargestOfThreeNumbers", "15.LargestOfThreeNumbers\15.LargestOfThreeNumbers.csproj", "{E14A5B2D-786A-40A3-82AF-7DED88DBB39D}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "15.LargestOfThreeNumbers", "CSharpAssignment\15.LargestOfThreeNumbers\15.LargestOfThreeNumbers.csproj", "{E14A5B2D-786A-40A3-82AF-7DED88DBB39D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "16.SortThreeNumbers", "16.SortThreeNumbers\16.SortThreeNumbers.csproj", "{861BE315-430F-4294-A19C-47E5406646F0}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "16.SortThreeNumbers", "CSharpAssignment\16.SortThreeNumbers\16.SortThreeNumbers.csproj", "{861BE315-430F-4294-A19C-47E5406646F0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "17.CountPositiveNegativeZero", "17.CountPositiveNegativeZero\17.CountPositiveNegativeZero.csproj", "{5AF90933-543E-47A7-A8DC-55AD7A0F99F8}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "17.CountPositiveNegativeZero", "CSharpAssignment\17.CountPositiveNegativeZero\17.CountPositiveNegativeZero.csproj", "{5AF90933-543E-47A7-A8DC-55AD7A0F99F8}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
