@@ -45,7 +45,28 @@ void DisplayBooks(Book[] bookArray)
 }
 
 Console.WriteLine("\n=== Linq Queries ===");
-
+Console.WriteLine("=== Filtering ===");
 var query1 = from book in books
              where book.Price > 30
              select book;
+
+Console.WriteLine("Price > 30");
+DisplayBooks(query1.ToArray());
+
+
+Console.WriteLine("=== Ordering ===");
+var orderBy = from book in books
+              orderby book.Price
+              select book;
+Console.WriteLine("Order by Price");
+DisplayBooks(orderBy.ToArray());
+
+Console.WriteLine("=== Grouping ===");
+var groupBy = from book in books
+              group book by book.Type;
+
+Console.WriteLine("Group by Type");
+foreach (var group in groupBy)
+{
+    Console.WriteLine($"{group.Key}: {string.Join(", ", group.Select(b => b.Title))}");
+}
