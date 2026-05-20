@@ -43,3 +43,9 @@ void DisplayBooks(Book[] bookArray)
         Console.WriteLine($"{i + 1}. {book.Title} by {string.Join(", ", book.GetAuthor())} - ${book.Price} [{book.Type}]");
     }
 }
+
+Console.WriteLine("\n=== Linq Queries ===");
+
+var query1 = from book in books
+             where book.Price > 30
+             select book;
